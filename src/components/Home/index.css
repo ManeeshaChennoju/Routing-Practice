@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.home_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.homeImage {
+  width: 250px;
+  height: 250px;
+}
+
+.heading {
+  color: #551e53;
+  font-weight: bold;
+  font-size: 28px;
+  text-align: center;
+}

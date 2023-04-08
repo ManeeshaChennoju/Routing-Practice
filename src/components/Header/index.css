@@ -1,0 +1,38 @@
+.nav_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}
+
+.logo_container {
+  display: flex;
+  align-items: center;
+}
+
+.waveImage {
+  width: 60px;
+  height: 60px;
+}
+
+.waveName {
+  color: rgb(46, 3, 46);
+  font-weight: bold;
+  font-family: cursive;
+  font-size: 25px;
+}
+
+.ul_container {
+  display: flex;
+}
+
+.list_items {
+  list-style: none;
+  display: flex;
+  margin: 5px;
+  color: rgb(46, 3, 46);
+  font-weight: bold;
+}
+
+.nav_link {
+}
